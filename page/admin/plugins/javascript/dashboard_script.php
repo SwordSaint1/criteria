@@ -86,6 +86,18 @@ const print_best_in_swim =()=>{
     window.open('print_best_in_swim.php?_blank');  
 }
 
+const print_best_in_long =()=>{
+    window.open('print_best_in_long.php?_blank');  
+}
+
+const print_smile =()=>{
+     window.open('print_smile.php?_blank');  
+}
+
+const print_final =()=>{
+     window.open('print_final.php?_blank');  
+}
+
 const best_in_prod_top1_mr =()=>{
     $.ajax({
             url: '../../process/processor.php',

@@ -421,7 +421,7 @@
                 <div class="row">
                   <div class="col-lg-12">
                     <div class="float-right">
-                      <a href="#" class="btn btn-success" onclick="print_top4()">Print Best in Swim Wear</a>
+                      <a href="#" class="btn btn-success" onclick="print_best_in_swim()">Print Best in Swim Wear</a>
                     </div>
                   </div>
                 </div>
@@ -495,7 +495,7 @@
                 <div class="row">
                   <div class="col-lg-12">
                     <div class="float-right">
-                      <a href="#" class="btn btn-success" onclick="print_top4()">Print Best in Long Gown</a>
+                      <a href="#" class="btn btn-success" onclick="print_best_in_long()">Print Best in Long Gown</a>
                     </div>
                   </div>
                 </div>
@@ -541,7 +541,7 @@
                 <div class="row">
                   <div class="col-lg-12">
                     <div class="float-right">
-                      <a href="#" class="btn btn-success" onclick="print_top4()">Print Mr & Miss Close-up Smile</a>
+                      <a href="#" class="btn btn-success" onclick="print_smile()">Print Mr & Miss Close-up Smile</a>
                     </div>
                   </div>
                 </div>
@@ -642,7 +642,7 @@
                 <div class="row">
                   <div class="col-lg-12">
                     <div class="float-right">
-                      <a href="#" class="btn btn-success" onclick="print_top4()">Print Final Round</a>
+                      <a href="#" class="btn btn-success" onclick="print_final()">Print Final Round</a>
                     </div>
                   </div>
                 </div>
